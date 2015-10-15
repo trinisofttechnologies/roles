@@ -1,5 +1,8 @@
 # Trinisoft Technologies's Roles Package
 
+```javascript
+meteor add trinisofttechnologies:roles
+```
 # Usage on client / server javascript code
 ```javascript
 // Adding a user to role
